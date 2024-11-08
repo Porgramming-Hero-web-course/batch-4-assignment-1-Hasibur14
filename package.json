@@ -1,0 +1,18 @@
+{
+  "name": "batch-4-assignment-1-Hasibur14",
+  "version": "1.0.0",
+  "description": "Topics:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev --respawn --transpile-only problem-4.ts"
+
+  },
+  "keywords": [],
+  "author": "Md Hasibur Rahman",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.6.3"
+  }
+}
