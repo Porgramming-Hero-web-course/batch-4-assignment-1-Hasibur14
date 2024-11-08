@@ -1,5 +1,9 @@
+{
+    //
 
-function sumArray(numbers: number[]): number {
-    return numbers.reduce((sum, num) => sum + num, 0);
+    function sumArray(numbers: number[]): number {
+        return numbers.reduce((sum, num) => sum + num, 0);
+    }
+
+    //
 }
-
